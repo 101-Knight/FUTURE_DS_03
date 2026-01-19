@@ -26,7 +26,7 @@ The analysis focuses on:
 1. Maintain and Scale High-Quality Content Delivery
 - Insight: Majority of ratings above average; sentiment dominantly positive/neutral.
 - Recommendation: Continue current teaching methodology. Identify top-rated courses/instructors and use their approaches as benchmarks.
-2️. Increase Engagement in Moderately Rated Areas
+2. Increase Engagement in Moderately Rated Areas
 - Insight: Some courses show average ratings (~3–3.5); neutral sentiment indicates “acceptable but not outstanding.”
 - Recommendation: Add interactive elements (live discussions, Q&A, hands-on activities, real-world examples).
 3. Focus on Consistency Across All Courses
