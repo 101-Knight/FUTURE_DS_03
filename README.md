@@ -45,7 +45,7 @@ The analysis focuses on:
 # 🧠 One-Line Executive Summary
 “Overall feedback indicates high satisfaction with content delivery, while moderate ratings and neutral sentiment highlight opportunities to enhance engagement, consistency, and feedback collection for future events.”
 
-#📂 Repository Structure
+# 📂 Repository Structure
 ├── Student_Feedback_Analysis.ipynb   # Jupyter Notebook with full analysis
 ├── data/                             # Feedback dataset (if shared)
 ├── visuals/                          # Plots and charts generated
